@@ -1,5 +1,11 @@
-<<<<<<< HEAD
 # renaming-receipts-with-tesseract-OCR-opencv-and-numpy
-=======
-# renaming-receipts-with-tesseract-OCR-opencv-and-numpy
->>>>>>> f0af56be33f91417a6d8342d1ab99465e043df8a
+
+
+user must install tesseract from <a href="https://github.com/UB-Mannheim/tesseract/wiki"> Here </a> first
+
+> this code creates a new folder named output and puts all of the renamed files in it 
+
+* commands :
+  * Y : yes (save the image in the output folder)
+  * N : no (skip)
+
