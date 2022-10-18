@@ -1,1 +1,1 @@
-# renaming-medical-receipts-with-tesseract-OCR-opencv-and-numpy
+# renaming-receipts-with-tesseract-OCR-opencv-and-numpy
